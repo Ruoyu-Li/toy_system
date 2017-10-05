@@ -1,0 +1,3 @@
+#!/Users/lee/Desktop/Software_Engineering/toy_system/venv/bin/python3.6
+from requirements_detector.run import run
+run()
